@@ -8,6 +8,7 @@ Repositorio para el ejercicio de participación 2 del Módulo 10.
 - **Integrante 2**: Alejandro Noyola Nazario
 - **Integrante 3**: Matías Suárez
 - **Integrante 4**: Francisco Williams Jiménez Hernández
+- **Integrante 5**: Guillermo Enrique Romero Zuñiga
 
 ---
 
